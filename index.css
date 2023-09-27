@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+header{
+    padding-top: 217px;
+    padding-left: 120px;
+    padding-bottom: 493px;
+    background-image: url(./Rectangle\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    width: 788.778px;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+.discription{
+    width: 481px;
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px;
+    margin-bottom: 44px;
+}
+.disc_link{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+button{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 234.063px;
+    height: 48.603px;
+    border-radius: 30px;
+    background: #9C0332;    
+}
+footer{
+    padding-top: 128px;
+    padding-left: 120px;
+    padding-bottom: 128px;
+    background: #000915;
+}
+.footer_link{
+    margin-right: 32px;
+    width: 379px;
+    height: 300px;
+}
