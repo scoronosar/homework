@@ -4,6 +4,7 @@
 }
 .center {
 padding-left: calc(50% - 600px);
+padding-right: calc(50% - 600px);
 }
 a{
     text-decoration: none;
@@ -57,17 +58,18 @@ button{
 }
 footer{
     display: flex;
+    gap: 32px;
     flex-wrap: wrap;
     padding-top: 128px;
     padding-bottom: 128px;
     background: #000915;
 }
 .footer_link{
-    margin-right: 32px;
     width: 379px;
     height: 300px;
 }
 .games{
+    position: relative;
     width: 379px;
     height: 300px;
     background-repeat: no-repeat;
@@ -91,6 +93,6 @@ footer{
     font-weight: 600;
     line-height: 32px; /* 133.333% */
     position: absolute;
-    padding-top: 236px;
-    padding-left: 32px;
+    left: 32px;
+    bottom: 32px;
 }
